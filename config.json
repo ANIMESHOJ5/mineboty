@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
- "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "ip": "MINECRAFTWORLDOJ5.aternos.me:58701",
+ "port": "58701",
+ "name": "Ani",
+ "auto-night-skip": "true",
+ "token": "ODk1NTI1OTQ2NTUwMDA1ODMw.YV517w.NA4M0WyMoFoIw25xYfVYywkWy7U",
+ "channelid": "895525946550005830",
+ "loginmsg": "Hello"
 }
